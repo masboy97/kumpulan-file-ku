@@ -25,7 +25,7 @@ if(x=="1"){xxx="insurance-car-auto-article-category.html"}
 if(x=="2"){xxx="ecommerce-article-category.html"}
 if(x=="3"){xxx="business-business-travel-article.html"}
 if(x=="4"){xxx="computers-and-technology-programming.html"}
-if(x=="5"){xxx="business-article-category.html"}a_to_ve[i].href="https://web.masboy.my.id/2021/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="internet-and-businesses-online.html"}a_to_ve[i].href="https://web.masboy.my.id/2021/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
